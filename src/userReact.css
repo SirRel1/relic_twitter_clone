@@ -1,0 +1,30 @@
+.react-bar {
+    height: 40px;
+    width: 100vw;
+    margin:0;
+    border: 2px solid grey;
+    color: blue;
+    padding: 10px;
+    position: absolute
+    
+}
+
+.unfilled_heart{
+    height: 95%;
+    margin-left: 8%;
+}
+
+.filled_heart{
+    height: 95%;
+    margin-left: 5%;
+}
+
+.counter{
+    font-size: 1.7em;
+    display: flex;
+    text-align: right;
+    position: relative;
+    align-items: center;
+    margin-left: 22%;
+    margin-top: -8%;
+}
